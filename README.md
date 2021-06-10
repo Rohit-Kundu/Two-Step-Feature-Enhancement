@@ -2,7 +2,7 @@
 
 # Cervical Cytology Classification Using PCA & GWO Enhanced Deep Features Selection
 
-Official Python Implementation of the paper titled ["Cervical Cytology Classification Using PCA & GWO Enhanced Deep Features Selection"](https://arxiv.org/abs/2106.04919) accepted for publication in special issue "AI and Deep Learning Trends in Healthcare" of SpringerNature Computer Science.
+Official Python Implementation of the paper titled ["Cervical Cytology Classification Using PCA & GWO Enhanced Deep Features Selection"](https://arxiv.org/abs/2106.04919) accepted for publication in special issue "AI and Deep Learning Trends in Healthcare" of [SpringerNature Computer Science](https://www.springer.com/journal/42979).
 
 ## Requirements
 
