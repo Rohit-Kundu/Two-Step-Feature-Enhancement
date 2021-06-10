@@ -48,7 +48,11 @@ If this repository helps you in your research in any way, please cite our paper:
 
 ```
 @article{basak2021cervical,
-  title={Cervical Cytology Classification Using PCA \& GWO Enhanced Deep Features Selection}
-  author={Basak, Hritam and Kundu, Rohit and Chakraborty, Sukanta and Das, Nibaran}
+      title={Cervical Cytology Classification Using PCA & GWO Enhanced Deep Features Selection}, 
+      author={Hritam Basak and Rohit Kundu and Sukanta Chakraborty and Nibaran Das},
+      year={2021},
+      eprint={2106.04919},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
