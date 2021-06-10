@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cervical-cytology-classification-using-pca/image-classification-on-sipakmed)](https://paperswithcode.com/sota/image-classification-on-sipakmed?p=cervical-cytology-classification-using-pca)
+
 # Cervical Cytology Classification Using PCA & GWO Enhanced Deep Features Selection
 
 Official Python Implementation of the paper titled "Cervical Cytology Classification Using PCA & GWO Enhanced Deep Features Selection"
