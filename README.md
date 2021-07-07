@@ -65,7 +65,3 @@ If this repository helps you in your research in any way, please cite our paper:
       url={https://doi.org/10.1007/s42979-021-00741-2}
 }
 ```
-Or,
-```
-Basak, H., Kundu, R., Chakraborty, S. et al. Cervical Cytology Classification Using PCA and GWO Enhanced Deep Features Selection. SN COMPUT. SCI. 2, 369 (2021). https://doi.org/10.1007/s42979-021-00741-2
-```
