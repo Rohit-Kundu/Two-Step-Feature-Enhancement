@@ -50,12 +50,20 @@ Set `num_csv` to the number of features csv files you have. You will be asked to
 If this repository helps you in your research in any way, please cite our paper:
 
 ```
-@article{basak2021cervical,
-      title={Cervical Cytology Classification Using PCA & GWO Enhanced Deep Features Selection}, 
-      author={Hritam Basak and Rohit Kundu and Sukanta Chakraborty and Nibaran Das},
+@article{Basak2021,
+      author={Basak, Hritam and Kundu, Rohit and Chakraborty, Sukanta and Das, Nibaran},
+      title={Cervical Cytology Classification Using PCA and GWO Enhanced Deep Features Selection},
+      journal={SN Computer Science},
       year={2021},
-      eprint={2106.04919},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      month={Jul},
+      day={07},
+      volume={2},
+      number={5},
+      pages={369},
+      issn={2661-8907},
+      doi={10.1007/s42979-021-00741-2},
+      url={https://doi.org/10.1007/s42979-021-00741-2}
 }
+
+
 ```
