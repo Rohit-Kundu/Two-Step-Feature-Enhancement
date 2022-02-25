@@ -15,10 +15,10 @@ To install the required dependencies run the following using the Command Prompt:
 
 # Implementing the code for Cervical Cytology data
 
-1. Herlev Pap Smear dataset by Jantzen et al.:http://mde-lab.aegean.gr/index.php/downloads  
+1. Herlev Pap Smear dataset by Jantzen et al.: http://mde-lab.aegean.gr/index.php/downloads  
 2. Mendeley Liquid Based Cytology dataset by Hussain
-et al. : https://data.mendeley.com/datasets/zddtpgzv63/4    
-3. SIPaKMeD Pap Smear dataset by Plissiti et al. : https://www.cs.uoi.gr/~marina/sipakmed.html  
+et al.: https://data.mendeley.com/datasets/zddtpgzv63/4    
+3. SIPaKMeD Pap Smear dataset by Plissiti et al.: https://www.cs.uoi.gr/~marina/sipakmed.html  
 
 Structure the directory as follows:
 
